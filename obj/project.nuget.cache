@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7PxaTFJH1YKUDoDVwi3f8LsxByWXMHbKYrri4H2eDHjX3iTzEKyf5tMzMzOzaSWJE4trngSLdfROEBP7ZrZnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\dev\\TheJitu-[TEACH2GIVE]\\9-Async-Programming\\db-module\\BookStoreRemastered\\BookStoreRemastered.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
